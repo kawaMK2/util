@@ -13,8 +13,9 @@ Usage: Blender起動後、Text EditerよりRun scriptを実行
 Blender用.xyzrgbファイルインポーター
 
 ## minitures
-ミニチュア3Dオブジェクトを各個fbxファイルへ書き出すためのスクリプト。
+ミニチュア3Dオブジェクトを各個fbxファイルへ書き出すためのスクリプト。  
+Miniature Stories( http://backham.me/press/miniaturestories_ja.html )製作時に使用。
 
 ## toilet
-トイレ室内3Dモデル用の、テクスチャベイクおよび保存の自動実行スクリプト。  
+トイレ室内3Dモデル用のテクスチャベイクおよび保存の自動実行スクリプト。  
 Usage: Blender起動後、Text EditerよりRun scriptを実行  
