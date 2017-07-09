@@ -1,9 +1,5 @@
 # util
-<<<<<<< HEAD
 大量のファイルを扱う作業のために作成したスクリプトなどのユーティリティ。3DCG関連の処理にはBlender( https://www.blender.org )を使用。  
-=======
-大量のファイルを扱う作業のために作成したスクリプトなどのユーティリティ。3DCG関連の処理にはBlender(https://www.blender.org)を使用。  
->>>>>>> 744302d96825c73625dcff45921f48872ac16c92
 
 ## chromakey
 openCVとpythonによるクロマキー処理のためのスクリプト。  
